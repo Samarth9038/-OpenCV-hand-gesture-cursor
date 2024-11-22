@@ -3,3 +3,5 @@ numpy
 pandas
 mediapipe
 volume-control
+pyautogui
+mouse

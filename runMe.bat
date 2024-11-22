@@ -27,7 +27,7 @@ if exist requirements.txt (
 
 cls
 
-echo HIGHLY RECOMMENDED TO CONFIGURE BEFORE FIRST USE
+echo Running...
 
 python fingerCursor.py
 if errorlevel 1 (
